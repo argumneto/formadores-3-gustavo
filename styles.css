@@ -2,10 +2,9 @@ body {
     font-family:"Roboto", sans-serif;
 color: white;
 background-color: black;
-
 }
 
-.chamada {
+section{
     background-color: rgb(109, 95, 35);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -22,7 +21,6 @@ img {
     overflow-x: auto;
     gap: 10px;
 }
-
 
 .categoria{
     padding-left: 20px;
