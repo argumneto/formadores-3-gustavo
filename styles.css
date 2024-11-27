@@ -11,7 +11,7 @@ section{
     display: flex;
     justify-content: center;
 }
-div{
+.chamada-texto{
 margin-right:20px;
 img {
     height: 20px;
